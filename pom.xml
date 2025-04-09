@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.orangehub</groupId>
-	<artifactId>springbootstarterapp</artifactId>
+	<artifactId>javacodespace</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>javacodespace</name>
-	<description>Java Code Space</description>
+	<description>Java Programs Code Space</description>
 	<url/>
 	<licenses>
 		<license/>
