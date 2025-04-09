@@ -11,8 +11,8 @@
 	<groupId>com.orangehub</groupId>
 	<artifactId>springbootstarterapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springbootstarterapp</name>
-	<description>Spring Boot Starter Project</description>
+	<name>javacodespace</name>
+	<description>Java Code Space</description>
 	<url/>
 	<licenses>
 		<license/>
